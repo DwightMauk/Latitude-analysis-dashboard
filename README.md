@@ -8,6 +8,8 @@ And links to each visualizations page.
 There are four visualization pages, each with:
 A visualization for a selected comparison.
 And a paragraph describing the plot and its significance.
+
+
 ![cloud](Lat_VS_Clouds.png)
 ![wind](Lat_VS_Wind.png)
 ![maxtemp](Lat_VS_MaxTemp.png)
